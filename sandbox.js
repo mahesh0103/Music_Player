@@ -20,10 +20,10 @@ let curr_track = document.createElement("audio");
 
 let track_list = [
   {
-    name: "Night Owl",
-    artist: "Broke For Free",
+    name: "Mystical Song",
+    artist: "Dorfi",
     image:
-      "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+      "https://img.freepik.com/free-vector/magic-rainbow-round-portal-black_1441-3990.jpg?t=st=1657594860~exp=1657595460~hmac=6d45c520d096eea89625adefe692093d1e30087c363e8bca5389778f1ba24c19&w=1060",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/WFMU/Broke_For_Free/Directionless_EP/Broke_For_Free_-_01_-_Night_Owl.mp3",
   },
   {
